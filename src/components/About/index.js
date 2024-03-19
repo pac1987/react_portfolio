@@ -36,12 +36,12 @@ const About = () => {
             technologies on challenging and diverse projects.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
+            I'm quietly confident, naturally curious, and constantly working on
             improving my chops one design problem at a time.
           </p>
           <p>
             If I need to define myself in one sentence that would be a family
-            person, father of a beautiful son, a video game fanatic,
+            person, a video game fanatic,
             anime fan, and tech-obsessed!!!
           </p>
             </div>
