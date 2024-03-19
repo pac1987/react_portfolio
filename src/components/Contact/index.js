@@ -45,6 +45,19 @@ const Contact = () => {
         <>
         <div className='container contact-page'>
         <div className='text-zone'>
+            <div>
+                <div className='info-map'>
+                    Paul Crawford,
+                    <br/>
+                    Uptown West 12, 8712,
+                    <br/>
+                    London,
+                    <br/>
+                    United Kingdom
+                    <br/>
+                    <span>pac1987@hotmail.co.uk</span>
+                </div>
+            </div>
             <h1>
                 <AnimatedLetters
                 letterClass={letterClass} strArray={['C','o','n','t','a','c','t',' ', 'm', 'e']} 
